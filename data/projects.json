@@ -1,0 +1,301 @@
+{
+  "profile": {
+    "name": "Usman Zuhaib",
+    "alternateName": "Usman Zohaib",
+    "title": "Senior Game UI/UX Artist & Graphic Designer",
+    "location": "Lahore, Pakistan",
+    "email": "zohaibusman786@gmail.com",
+    "phone": "+92 334 4311357",
+    "whatsappUrl": "https://wa.me/923344311357?text=Hi%20Usman%2C%20I%20saw%20your%20portfolio%20and%20would%20like%20to%20discuss%20a%20project.",
+    "behance": "https://www.behance.net/UsmanBinyamin",
+    "fiverr": "https://www.fiverr.com/mysteriousking",
+    "experienceYears": "12+",
+    "fiverrRating": "5.0",
+    "fiverrReviews": "224+",
+    "fiverrLevel": "Level 2 Seller",
+    "availability": "Available for Select Contracts & Full-time Roles",
+    "bio": "Senior Game UI/UX Artist and Graphic Designer with 12+ years of industry experience crafting production-ready mobile game interfaces, tactile HUDs, stylized game logos, and complete brand identities. Level 2 Seller on Fiverr with an unbroken 5.0 rating across 224 client reviews across the US, Germany, and worldwide."
+  },
+  "stats": [
+    { "value": "12+", "label": "Years in Game Art & UI" },
+    { "value": "224+", "label": "5.0 Client Reviews (Fiverr)" },
+    { "value": "50+", "label": "Mobile Games & Titles Designed" },
+    { "value": "100%", "label": "Production-Ready Asset Delivery" }
+  ],
+  "categories": [
+    { "id": "all", "label": "All Work" },
+    { "id": "case-study", "label": "Featured Case Studies" },
+    { "id": "game-ui", "label": "Game UI/UX & HUDs" },
+    { "id": "game-logos", "label": "Game Logos & Titles" },
+    { "id": "game-assets", "label": "2D Game Assets & Props" },
+    { "id": "splash-art", "label": "Splash Screens & Key Art" }
+  ],
+  "projects": [
+    {
+      "id": "conscious-ascension",
+      "title": "Conscious Ascension — Wellness Casual Game",
+      "category": "case-study",
+      "badge": "Full Case Study",
+      "status": "Shipped Project",
+      "role": "Lead UI/UX & Visual Designer",
+      "tools": ["Photoshop", "Illustrator", "Figma"],
+      "platforms": ["iOS", "Android"],
+      "imageJpg": "assets/images/projects/Projects (5).jpg",
+      "imageWebp": "assets/images/projects/Projects (5).webp",
+      "summary": "End-to-end UI/UX architecture for a transformational casual wellness game combining mindfulness progression with polished match-3 mechanics.",
+      "challenge": "Create a calming, spiritually uplifting visual tone while retaining high-contrast casual puzzle affordances, distinct jewel readability, and a structured multi-pillar wellness progression hub.",
+      "solution": "Developed an amethyst and luminous violet color palette with metallic gold filigree accents, crystal emerald primary CTAs, clear milestone iconography for each wellness category (Consciousness, Physical, Social, Financial, Mental), and an immersive volcanic puzzle board.",
+      "features": [
+        "Tactile gemstone Play button with radiant depth",
+        "Multi-pillar progression screen ('Blasting Shame' mode)",
+        "Jewel match-3 grid with high contrast visual feedback",
+        "Seamless avatar and character dialogue integration"
+      ]
+    },
+    {
+      "id": "pet-simulator-ui",
+      "title": "Pet Simulator — Complete UI System",
+      "category": "case-study",
+      "badge": "UI Architecture",
+      "status": "Production Ready",
+      "role": "UI/UX Designer & 2D Artist",
+      "tools": ["Photoshop", "Illustrator", "Unity UI Ready"],
+      "platforms": ["Mobile (iOS / Android)"],
+      "imageJpg": "assets/images/projects/Projects (7).jpg",
+      "imageWebp": "assets/images/projects/Projects (7).webp",
+      "summary": "A full-scale UI design system for a casual pet simulation game, covering main menu, breed & accessory wardrobe customization, 7-day retention modal, and in-game task HUD.",
+      "challenge": "Ensure thumb-zone ergonomics for young and casual players across phone and tablet screens without cluttering the screen during active pet interactions.",
+      "solution": "Built a refreshing sky-blue and marshmallow-cream UI theme with rounded chunky tactile buttons, clear reward progression chests, and organized accessory tabs (Hats, Collars) with instant preview states.",
+      "features": [
+        "Playful, high-retention Main Menu with clear reward badges",
+        "Tabbed wardrobe shop with responsive breed carousel",
+        "7-day daily claim system with escalating reward tiers",
+        "Contextual interaction HUD with objective tracker & directional controls"
+      ]
+    },
+    {
+      "id": "gameplay-huds-inventory",
+      "title": "Gameplay HUDs & In-Game Systems",
+      "category": "game-ui",
+      "badge": "HUD Systems",
+      "status": "Shipped Across Multiple Titles",
+      "role": "Game UI/UX Artist",
+      "tools": ["Photoshop", "Illustrator", "Figma"],
+      "platforms": ["Mobile & Tablet"],
+      "imageJpg": "assets/images/projects/Projects (4).jpg",
+      "imageWebp": "assets/images/projects/Projects (4).webp",
+      "summary": "Production HUD screens spanning military weapon selection, survival inventory crafting grid, match-3 board, action combat controls, and simulation menus.",
+      "challenge": "Balancing complex data (weapon fire rate, range, damage, inventory capacity) within constrained mobile screen viewports.",
+      "solution": "Designed segmented attribute comparison meters, modular inventory slots with categorical tabs (clothing, buffs, tools), and thumb-friendly circular touch controls for real-time mobile gameplay.",
+      "features": [
+        "Weapon arsenal screen with attribute stat comparison bars",
+        "Full RPG survival inventory & toolbelt grid system",
+        "Action hero HUD with dual virtual joysticks & skill triggers",
+        "President Simulator & Racing garage launch interfaces"
+      ]
+    },
+    {
+      "id": "mobile-game-menus",
+      "title": "Mobile Game Menus & Navigation UX",
+      "category": "game-ui",
+      "badge": "Menu Systems",
+      "status": "Shipped",
+      "role": "Lead UI Artist",
+      "tools": ["Photoshop", "Illustrator"],
+      "platforms": ["Android & iOS"],
+      "imageJpg": "assets/images/projects/Projects (3).jpg",
+      "imageWebp": "assets/images/projects/Projects (3).webp",
+      "summary": "High-conversion main menu UI systems designed for distinct genres: Anime RPG, Luxury Car Simulator, Goat Comedy Sim, and Spider Action Game.",
+      "challenge": "Drive day-one player engagement through prominent CTA placement while maintaining natural real-estate for monetization (Starter packs, Remove Ads, VIP passes).",
+      "solution": "Crafted genre-tailored visual treatments—from neon luxury automotive panels to whimsical comic-style action buttons—optimized for instant comprehension.",
+      "features": [
+        "Anime RPG home dock with Spin Wheel & Daily Chest rewards",
+        "Luxury car simulator garage with multi-mode navigation cards",
+        "Comic-book action spider menu with 50% discount callout",
+        "Whimsical character select interface with dynamic asset frames"
+      ]
+    },
+    {
+      "id": "game-inventory-props",
+      "title": "2D Game Assets & Inventory Icons",
+      "category": "game-assets",
+      "badge": "2D Game Assets",
+      "status": "Production Assets",
+      "role": "2D Game Artist",
+      "tools": ["Adobe Photoshop", "Illustrator"],
+      "platforms": ["Cross-Platform"],
+      "imageJpg": "assets/images/projects/Projects (2).jpg",
+      "imageWebp": "assets/images/projects/Projects (2).webp",
+      "summary": "Hand-rendered game inventory items, equipment props, and reward wheels designed for instant silhouette clarity at 64px to 512px resolutions.",
+      "challenge": "Conveying tangible physical materials (polished gold, refractive glass, glowing neon, carved wood, rusted metal) while maintaining sharp game-engine scaling.",
+      "solution": "Rendered high-detail textures with emphasized rim lighting, specular highlights, and clean vector bounding paths that pop against dark or light inventory backgrounds.",
+      "features": [
+        "Blood bag elixir flask with liquid volume rendering",
+        "Ornate club signet ring with engraved golden filigree",
+        "Steampunk chronometer pocket watch with glowing neon indices",
+        "Cursed skull padlock, fortune prize wheel, and gothic combat fan"
+      ]
+    },
+    {
+      "id": "casual-competitive-logos",
+      "title": "Casual & Competitive Game Logos",
+      "category": "game-logos",
+      "badge": "Game Logos",
+      "status": "Shipped Titles",
+      "role": "Logo & Title Designer",
+      "tools": ["Adobe Illustrator", "Photoshop"],
+      "platforms": ["Store Banners, Splash & Steam"],
+      "imageJpg": "assets/images/projects/Projects (1).jpg",
+      "imageWebp": "assets/images/projects/Projects (1).webp",
+      "summary": "A curated collection of commercial game logos engineered for high visibility on App Store, Google Play icons, and title screens.",
+      "challenge": "Creating memorable typography that communicates the game's core hook within half a second of user glance.",
+      "solution": "Custom dimensional letterforms with genre-specific textures (wooden planks, glossy candy highlights, metallic chrome shields, and speed flames).",
+      "features": [
+        "JoJo's Arcade — Retro 80s arcade machine aesthetic",
+        "Blitz Marble Saga — Lustrous wooden placard with floral charms",
+        "MHL: Miniatures Hockey League — Collegiate sports shield crest",
+        "Countryball RTS, Risky Coin Flip, Math Safari, Football Player"
+      ]
+    },
+    {
+      "id": "splash-screens-key-art",
+      "title": "Game Splash Screens & Key Art",
+      "category": "splash-art",
+      "badge": "Splash & Key Art",
+      "status": "Shipped",
+      "role": "Key Art & UI Integration Artist",
+      "tools": ["Photoshop", "After Effects", "Illustrator"],
+      "platforms": ["Mobile & Store Pages"],
+      "imageJpg": "assets/images/projects/Projects (6).jpg",
+      "imageWebp": "assets/images/projects/Projects (6).webp",
+      "summary": "Full-bleed launch splash screens integrating 2D/3D character renders, atmospheric world environments, and stylized title logos.",
+      "challenge": "Harmonizing varied rendering styles (casual 3D rendered characters, painted backgrounds, and vector logos) into a unified visual experience.",
+      "solution": "Composed dynamic scene lighting, atmospheric fog layers, and depth-of-field separation to place title branding at the focal apex.",
+      "features": [
+        "Blitz Marble Saga — Lush cottage garden with cheerful cast",
+        "Cosmo Merge — Fantasy champion summon screen with chibi party",
+        "Temple Bounce Pinball — Ancient stone temple arcade launch"
+      ]
+    },
+    {
+      "id": "mascot-thematic-logos",
+      "title": "Mascot & Thematic Game Logos",
+      "category": "game-logos",
+      "badge": "Mascot Logos",
+      "status": "Commercial Clients",
+      "role": "Illustrator & Title Artist",
+      "tools": ["Illustrator", "Photoshop"],
+      "platforms": ["Games, Merch & Esports"],
+      "imageJpg": "assets/images/projects/Projects (8).jpg",
+      "imageWebp": "assets/images/projects/Projects (8).webp",
+      "summary": "Character-integrated title badges combining character illustration with dynamic typography for action, party, and sandbox gaming.",
+      "challenge": "Balancing complex character illustrations with legible typography so neither overwhelms the title silhouette.",
+      "solution": "Unified color palettes and integrated base pedestals that anchor both the mascot characters and the extruded typography.",
+      "features": [
+        "Drunken Bar Fight — Glowing neon sign with brawl action",
+        "The Four Horsemen — Western apocalypse character mountain emblem",
+        "Hytale Servers — Voxel nature guardian emblem with wooden framing",
+        "The Warthogs Brigade — Combat explosive military warthog mascot"
+      ]
+    },
+    {
+      "id": "action-scifi-logos",
+      "title": "Action, Sci-Fi & Strategy Titles",
+      "category": "game-logos",
+      "badge": "Game Logos",
+      "status": "Production Ready",
+      "role": "Logo & Emblem Designer",
+      "tools": ["Illustrator", "Photoshop"],
+      "platforms": ["Steam, Mobile & Web"],
+      "imageJpg": "assets/images/projects/Projects (9).jpg",
+      "imageWebp": "assets/images/projects/Projects (9).webp",
+      "summary": "High-impact emblems spanning post-apocalyptic biohazard survival, medieval blacksmithing, casino heist, and sci-fi cyberpunk.",
+      "challenge": "Delivering production-grade vector deliverables (transparent PNG, layered PSD, SVG, and monochrome variants).",
+      "solution": "Precision vector construction with high-contrast bevels, luminous inner glows, and distinctive geometric contours.",
+      "features": [
+        "The Final Setdown — Vegas neon theater marquee style",
+        "Plagueborne — Toxic acid vapor survival backpack badge",
+        "Crafting in Berkley — Blacksmith crest with crossed hammers",
+        "Vein-X, Budget Busters, and Duel or Doom card battler"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "period": "2020 – Present",
+      "role": "Freelance Senior Game Graphic Designer",
+      "company": "Fiverr (Level 2 Seller)",
+      "type": "Remote / International",
+      "highlight": "5.0 ★ Rating Across 224+ Reviews",
+      "description": "Managing end-to-end game UI/UX, 2D game graphics, game logos, app icons, and splash screens for clients across the United States, Germany, the UK, and globally. Consistently praised for rapid turnaround and production-ready asset delivery."
+    },
+    {
+      "period": "Sep 2025 – Apr 2026",
+      "role": "Graphic Designer (Neon Square Project)",
+      "company": "Eden Builders",
+      "type": "Lahore, Pakistan",
+      "highlight": "Major Real Estate Launch Campaign",
+      "description": "Designed high-impact digital campaigns, comprehensive billboard and outdoor print collateral, catalogues, brochures, and promo video reels for premium commercial development."
+    },
+    {
+      "period": "Mar 2021 – Dec 2024",
+      "role": "Senior Game UI/UX Artist",
+      "company": "Game Tap Studios",
+      "type": "Lahore, Pakistan",
+      "highlight": "Multi-Title Mobile Game Production",
+      "description": "Led 2D/3D interface art direction across major mobile titles. Designed complete HUDs, navigation flows, icon sheets, and worked directly with Unity developers for seamless hand-off and runtime performance."
+    },
+    {
+      "period": "2019 – 2021",
+      "role": "Graphic Designer",
+      "company": "EmyTeck",
+      "type": "Lahore, Pakistan",
+      "highlight": "Digital Ads & Brand Identity",
+      "description": "Produced marketing creatives, digital advertising campaigns, motion graphic teasers, and print collateral for tech and gaming products."
+    },
+    {
+      "period": "2018 – 2019",
+      "role": "Game UI/UX Designer",
+      "company": "Meticode",
+      "type": "Lahore, Pakistan",
+      "highlight": "2D/3D Game Interfaces & Logos",
+      "description": "Crafted mobile game interfaces, vector title logos, and marketing promo materials."
+    },
+    {
+      "period": "2013 – 2018",
+      "role": "Graphic & Game Artist",
+      "company": "Game Concept & Halffat / TMPS",
+      "type": "Lahore, Pakistan",
+      "highlight": "Foundational Studio & High-Volume Print",
+      "description": "Formative 5 years creating game UI assets, character icons, and high-volume commercial print/typesetting."
+    }
+  ],
+  "skills": {
+    "gameDesign": [
+      "Game UI/UX Design (HUDs, Menus, Screens)",
+      "2D & 3D Game Asset Production",
+      "Game Icons & Inventory Props",
+      "Game Logo & Dimensional Title Design",
+      "App Icons & Feature Graphic Assets",
+      "Launch Splash Screens & Key Art"
+    ],
+    "brandAndMotion": [
+      "Brand Identity & Style Guides",
+      "Social Media Creatives & Ad Banners",
+      "Gameplay Reels & Promo Trailers",
+      "Motion Graphics & UI Micro-animations",
+      "Billboards, Brochures & Signage",
+      "Urdu Typesetting in InPage"
+    ],
+    "tools": [
+      { "name": "Adobe Photoshop", "level": "Expert (12+ Yrs)" },
+      { "name": "Adobe Illustrator", "level": "Expert (Vector Craft)" },
+      { "name": "Figma", "level": "Advanced (Design Systems)" },
+      { "name": "Adobe After Effects", "level": "Motion & Game Trailers" },
+      { "name": "Adobe Premiere Pro", "level": "Video Editing & Reels" },
+      { "name": "CorelDRAW / InDesign", "level": "Print & Publications" },
+      { "name": "InPage", "level": "Urdu Typesetting" },
+      { "name": "Unity UI Hand-off", "level": "Slicing, Atlases & Specs" }
+    ]
+  }
+}
